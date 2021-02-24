@@ -2,11 +2,11 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+IAM (Identity and Access Management) is a crucial security service in the AWS environment. It's essentially responsible for managing access permissions to the AWS account as well as to its resources and services. Hence, it's necessary to understand how it works and learn the basic configurations to allow a secure access.
 
 ## Prerequisite
 
-Basic understanding of IAM (Identity and Access Management) service and its main components (User, Group, Role, and Policy), as well as basic knowledge of password enforcement and MFA (Multi-Factor Authentication).
+Basic understanding of IAM service and its main components (User, Group, Role, and Policy), as well as basic knowledge of password enforcement and MFA (Multi-Factor Authentication).
 
 ## Use Case
 
