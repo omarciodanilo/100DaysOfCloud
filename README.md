@@ -16,13 +16,13 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## dani's Cloud Journey
 
-Hi, I'm Márcio Danilo (dani) and I'm currently working as a Tech Support and SysAdmin.
+Hi, I'm Márcio Danilo (dani) and I currently work as a Tech Support and SysAdmin.
 
-I want practice the theory I've been studying, get some hands-on experience, and improve my tech skills.
+I've decided to practice the theory I've been studying, get some hands-on experience, and improve my Cloud skills.
 
-At the end of the challenge I want to be an AWS Solutions Architect certified professional and feel more confident to pursue a Cloud related position.
+At the end of this challenge I want to be an AWS Solutions Architect certified professional and feel more confident to pursue a Cloud related position.
 
-- [My LinkedIn](https://www.linkedin.com/in/marcio-almeida/)
+- [Linkedin profile](https://www.linkedin.com/in/marcio-almeida/)
 
 ## Stepping out the door
 
