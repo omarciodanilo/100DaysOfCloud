@@ -26,7 +26,7 @@ At the end of the challenge I want to be an AWS Solutions Architect certified pr
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [](Journey/001/Readme.md)
+- [X] ☁️ 1 > [Secure the root account, create and secure an IAM admin user](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
