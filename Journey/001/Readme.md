@@ -6,7 +6,7 @@
 
 ## Prerequisite
 
-Basic understanding of IAM and its main components (User, Group, and Role), as well as basic knowledge of password enforcement and MFA (Multi-Factor Authentication).
+Basic understanding of IAM (Identity and Access Management) service and its main components (User, Group, Role, and Policy), as well as basic knowledge of password enforcement and MFA (Multi-Factor Authentication).
 
 ## Use Case
 
