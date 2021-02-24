@@ -54,6 +54,4 @@ Useful reference links to understand the concepts and complete this lab:
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
 [Linkedin post](link)
