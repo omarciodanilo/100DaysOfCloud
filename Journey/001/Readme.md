@@ -41,7 +41,7 @@ Useful reference links to understand the concepts and complete this lab:
 - Enable billing information for the IAM user
 - Set up a password security policy
 - Create an IAM admin group with administrator permissions
-- Create an IAM admin user with management console and programmatic access, and add it to the IAM admin group previously created
+- Create an IAM admin user with management console and programmatic accesses, and add it to the IAM admin group previously created
 - Download the .csv file with access key ID and secret access key
 - Log out from the root account
 - Log in as the IAM admin user
