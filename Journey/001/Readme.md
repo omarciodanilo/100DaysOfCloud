@@ -14,6 +14,15 @@ Basic understanding of IAM and its main components (User, Group, and Role), as w
 
 ## Cloud Research
 
+What is Identity and Access Management (IAM)?
+What is a root user?
+How is a root user different from an Admin user?
+What is console access and programmatic access?
+What is the access key and secret key?
+What is MFA and why is it important?
+What are IAM identities and how they can be created?
+What are some good security practices for password policies?
+
 Useful reference links to understand the concepts and complete this lab:
 
 - [What is IAM?](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
@@ -21,6 +30,7 @@ Useful reference links to understand the concepts and complete this lab:
 - [Using multi-factor authentication (MFA) in AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html)
 - [Creating your first IAM admin user and group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)
 - [Setting an account password policy for IAM users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_account-policy.html?icmpid=docs_iam_console)
+- [Managing access keys for IAM users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html)
 - [Security best practices in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 ## Try yourself
