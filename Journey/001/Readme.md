@@ -2,7 +2,7 @@
 
 ## Introduction
 
-IAM (Identity and Access Management) is a crucial security service in the AWS environment. It's essentially responsible for managing access permissions to the AWS account as well as to its resources and services. Hence, it's necessary to understand how it works and learn the basic configurations to allow a secure access.
+IAM (Identity and Access Management) is a crucial security service in the AWS environment. It's essentially responsible for managing access permissions to the AWS account as well as to its resources. Hence, it's necessary to understand how it works and learn the basic configurations to allow a secure access.
 
 ## Prerequisite
 
@@ -10,7 +10,7 @@ Basic understanding of IAM service and its main components (User, Group, Role, a
 
 ## Use Case
 
-✍️ (Show-Me) Explain in one or two sentences the use case
+After creating an AWS account, the first step is to secure it. So once at least the majority of the steps in this lab are included in the IAM security best practices, I believe they are fundamental to enable some security features to any AWS account, regardless of the type and size of the project.
 
 ## Cloud Research
 
@@ -26,6 +26,7 @@ What are some good security practices for password policies?
 Useful reference links to understand the concepts and complete this lab:
 
 - [What is IAM?](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+- [Your AWS account ID and its alias](https://docs.aws.amazon.com/IAM/latest/UserGuide/console_account-alias.html)
 - [IAM Identities (users, groups, and roles)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html)
 - [Using multi-factor authentication (MFA) in AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html)
 - [Creating your first IAM admin user and group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)
