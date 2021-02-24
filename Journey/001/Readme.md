@@ -56,4 +56,4 @@ Useful reference links to understand the concepts and complete this lab:
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Linkedin post](link)
