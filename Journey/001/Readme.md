@@ -1,4 +1,4 @@
-# New post title here
+# Secure the root account, create and secure an IAM admin user
 
 ## Introduction
 
@@ -6,19 +6,36 @@
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Basic understanding of IAM and its main components (User, Group, and Role), as well as basic knowledge of password enforcement and MFA (Multi-Factor Authentication).
 
 ## Use Case
 
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+Useful reference links to understand the concepts and complete this lab:
+
+- [What is IAM?](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+- [IAM Identities (users, groups, and roles)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html)
+- [Using multi-factor authentication (MFA) in AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa.html)
+- [Creating your first IAM admin user and group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)
+- [Setting an account password policy for IAM users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_account-policy.html?icmpid=docs_iam_console)
+- [Security best practices in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- Log in as root
+- Create an alias to the AWS account address
+- Activate MFA for the root account
+- Enable billing information for the IAM user
+- Set up a password security policy
+- Create an IAM admin group with administrator permissions
+- Create an IAM admin user with management console and programmatic access, and add it to the IAM admin group previously created
+- Download the .csv file with access key ID and secret access key
+- Log out from the root account
+- Log in as the IAM admin user
+- Set up MFA for the IAM admin user
 
 ## ☁️ Cloud Outcome
 
