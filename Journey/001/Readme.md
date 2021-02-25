@@ -52,13 +52,13 @@ Concepts I learned (in general lines):
 - The access key ID and secret access key are generated when an IAM user is created. They can be downloaded and need to be stored in a safe location.
 - MFA stands for Multi-Factor Authentication and is a way to add a security layer to the authentication process. It can be a physical or virtual token.
 
-Besides that, I learned how to:
+Besides that, I also learned to:
 
-- create an alias to the AWS account (and that it makes the user access easier),
-- secure an AWS root account,
-- create and secure IAM users,
-- create IAM groups,
-- and attach roles to IAM groups.
+- Create an alias to the AWS account (and that it makes the user access easier)
+- Secure an AWS root account
+- Create and secure IAM users
+- Create IAM groups
+- Attach roles to IAM groups
 
 Conclusion: during my studies and while practicing the lab, I was continuously remebered that IAM is one of the foundational services of AWS and is interconnected with every other AWS service. That said, a good understanding of it and a detail-oriented posture will help a lot when working on Cloud projects.
 
