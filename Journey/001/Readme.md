@@ -64,4 +64,4 @@ Conclusion: during my studies and while practicing the lab, I was continuously r
 
 ## Social Proof
 
-[Linkedin post](link)
+[Linkedin post](https://www.linkedin.com/posts/marcio-almeida_oidani100daysofcloud-activity-6770510356960821248-HSO1)
