@@ -14,15 +14,6 @@ After creating an AWS account, the first step is to secure it. So once at least 
 
 ## Cloud Research
 
-What is Identity and Access Management (IAM)?
-What is a root user?
-How is a root user different from an Admin user?
-What is console access and programmatic access?
-What is the access key and secret key?
-What is MFA and why is it important?
-What are IAM identities and how they can be created?
-What are some good security practices for password policies?
-
 Useful reference links to understand the concepts and complete this lab:
 
 - [What is IAM?](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
@@ -35,6 +26,8 @@ Useful reference links to understand the concepts and complete this lab:
 - [Security best practices in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 ## Try yourself
+
+Main steps:
 
 - Log in as root
 - Create an alias to the AWS account address
@@ -50,7 +43,24 @@ Useful reference links to understand the concepts and complete this lab:
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Concepts I learned (in general lines):
+
+- IAM stands for Identity and Access Management and is a Web service used to manage authentication and autorization to access AWS resources.
+- The root account is the first and most important entity of an AWS account. It has all privileges and hence need to be secured and used only when strictly necessary. For that reason, instead of using the root account for every single operation, AWS recommends to create and IAM user with administrative permissions.
+- A user can be a person or a service. A group is a collection of users. A policy is a list of allow permissions. A role is a set of policies that is attached to a user or group, allowing temporary an secure access to AWS resources.
+- AWS allows two types of access: via management console (GUI) and programmatic access (API, CLI, SDK). An e-mail/login and a password (with or without MFA) can be used to access the management console. An access key ID and a secret access key can be used in a programmatic access.
+- The access key ID and secret access key are generated when an IAM user is created. They can be downloaded and need to be stored in a safe location.
+- MFA stands for Multi-Factor Authentication and is a way to add a security layer to the authentication process. It can be a physical or virtual token.
+
+Besides that, I learned how to:
+
+- create an alias to the AWS account (and that it makes the user access easier),
+- secure an AWS root account,
+- create and secure IAM users,
+- create IAM groups,
+- and attach roles to IAM groups.
+
+Conclusion: during my studies and while practicing the lab, I was continuously remebered that IAM is one of the foundational services of AWS and is interconnected with every other AWS service. That said, a good understanding of it and a detail-oriented posture will help a lot when working on Cloud projects.
 
 ## Social Proof
 
