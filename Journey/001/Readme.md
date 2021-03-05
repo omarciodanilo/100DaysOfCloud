@@ -41,7 +41,7 @@ Main steps:
 - Log in as the IAM admin user
 - Set up MFA for the IAM admin user
 
-## ☁️ Cloud Outcome
+## Cloud Outcome
 
 Concepts I learned (in general lines):
 
