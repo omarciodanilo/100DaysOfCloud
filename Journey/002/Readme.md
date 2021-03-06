@@ -59,4 +59,4 @@ About Billing Alarms
 
 ## Social Proof
 
-[Linkedin post]()
+[Linkedin post](https://www.linkedin.com/posts/marcio-almeida_oidani100daysofcloud-activity-6773784593637117952-evZI)
