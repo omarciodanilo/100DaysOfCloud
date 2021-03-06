@@ -1,4 +1,4 @@
-# Create an SNS topic, create three Billing Alarms using CloudWatch
+# Create an SNS topic and create three Billing Alarms using CloudWatch
 
 ## Introduction
 
