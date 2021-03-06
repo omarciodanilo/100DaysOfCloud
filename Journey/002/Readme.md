@@ -53,6 +53,7 @@ About CloudWatch
 About Billing Alarms
 
 - Billing Alarms are a way of monitor charges.
+- It is triggered when the specified metric threshold is reached.
 - It is possible to be notified when a Billing Alarm is triggered thanks to SNS.
 - Billing Alarms can be configured only in the <b>US East (N. Virginia) us-east-1</b> Region, because billing metric data is stored in this Region and represents worldwide charges.
 
