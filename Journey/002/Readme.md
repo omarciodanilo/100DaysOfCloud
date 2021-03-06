@@ -2,11 +2,9 @@
 
 ## Introduction
 
-SNS is the AWS Simple Notification Service and is used for sending messages to users or applications.
-
-CloudWatch is the AWS monitoring and observability service.
-
-Billing Alarms are a way of monitoring charges of the AWS account.
+- SNS is the AWS Simple Notification Service and is used for sending messages to users or applications.
+- CloudWatch is the AWS monitoring and observability service.
+- Billing Alarms are a way of monitoring charges of the AWS account.
 
 ## Prerequisite
 
