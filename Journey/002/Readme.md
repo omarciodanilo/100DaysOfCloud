@@ -29,6 +29,7 @@ Useful reference links to understand the concepts and complete this lab:
 
 Main steps:
 
+- Log in the AWS account as a user with billing permissions
 - Enable the Monitoring of Estimated Charges in the Preferences option in the Billing service dashboard
 - Create an SNS topic to send a notification when the Billing Alarm is triggered
 - Confirm subscription to the previously created SNS topic
