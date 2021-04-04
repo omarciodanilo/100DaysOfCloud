@@ -48,4 +48,4 @@ Concepts I learned:
 
 ## Social Proof
 
-[Linkedin post]()
+[Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6784547846944235520/)
