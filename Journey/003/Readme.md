@@ -48,4 +48,4 @@ Concepts I learned:
 
 ## Social Proof
 
-[Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6784547846944235520/)
+[Linkedin post](https://www.linkedin.com/posts/marcio-almeida_oidani100daysofcloud-activity-6784547846944235520-4Llv)
