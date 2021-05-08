@@ -1,52 +1,71 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Launch an EC2 instance and log into it
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+An EC2 instance is a Virtual Machine in the Cloud. AWS has a lot of types of instances that can be launched, like some Linux flavours, Microsoft Windows, and Mac.
+
+When lauching an EC2 instance, it is possible to configure where it should be place (subnet/AZ), storage type and size, IAM rules, access mode for management, Security Groups to allow inbound and outbound traffic, and so on.
+
+The main objectives of this lab are the following:
+- Launch a Amazon Linux EC2 instance and access it using SSH.
+- Launch a Windows EC2 instance and access it through RDP.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Basic understanding of the following AWS Services:
+- EC2
+- Security Groups
+- Basic understanding of SSH and RDP protocols
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+One of the first things that is done when learning Cloud Computing is how to use Virtual Machines in the Cloud. When using AWS, it is about launching EC2 instances.
+
+EC2 is one of the AWS Compute Services and is widely used in a lots of real world scenarios, like providing a Web Server or an application that will analyze some kind of data.
+
+Therefore, it is an AWS foundational service and must be known to anyone who desires to start a Cloud journey.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+
+https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/COM/COM03/COM03-AWS100.md
+
+Useful reference links to understand the concepts and complete this lab:
+
+- EC2[]()
+- SG[]()
+- SSH[]()
+- RDP[]()
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Main steps (must be followed twice: once for Amazon Linux and then for Windows):
 
-### Step 1 — Summary of Step
+- Log in the AWS Management Console
+- Access the EC2 Console
+- Create an EC2 instance
+    - Create just one Security Group
+    - Allow inbound access to the required protocols: SSH (Linux) and RDP (Windows)
+- Wait for the instance to be in the running state
+- Access the instance
 
-![Screenshot](https://via.placeholder.com/500x300)
+## Cloud Outcome
 
-### Step 1 — Summary of Step
+Concepts I learned:
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- What is a region?
+- What is an availability zone?
+- What is a public subnet?
+- How many subnets can there be in one region?
+- How to launch EC2 instances in public / private subnets?
+- What are AMIs?
+- What are security groups?
+- What are inbound/outbound rules?
+- what is deny By default rule in security groups?
+- How to allow access to EC2 from security groups?
+- How to connect to EC2 instances from your machine?
+- How to setup your simple static site with ec2?
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Linkedin post]()
