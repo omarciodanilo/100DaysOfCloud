@@ -26,8 +26,6 @@ Therefore, it is an AWS foundational service and must be known to anyone who des
 
 ## Cloud Research
 
-https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/COM/COM03/COM03-AWS100.md
-
 Useful reference links to understand the concepts and complete this lab:
 
 - [AWS Free-Tier Pricing](https://aws.amazon.com/ebs/pricing/?nc1=h_ls)
