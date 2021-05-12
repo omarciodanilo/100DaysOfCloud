@@ -27,9 +27,9 @@ At the end of this challenge I want to be an AWS Solutions Architect certified p
 ## Stepping out the door
 
 - [X] ☁️ 1 > [Secure the root account, create and secure an IAM admin user](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [X] ☁️ 2 > [Create an SNS topic and create three Billing Alarms using CloudWatch](Journey/002/Readme.md)
+- [X] ☁️ 3 > [Create a Cost Budget](Journey/003/Readme.md)
+- [X] ☁️ 4 > [Launch an EC2 instance and log into it](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
